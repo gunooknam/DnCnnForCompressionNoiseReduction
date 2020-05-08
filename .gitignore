@@ -1,0 +1,5 @@
+.idea
+__pycache__
+model/__pycache__
+*.pth
+*.pt
